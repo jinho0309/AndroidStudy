@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PS</string>
+    <string name="title">CustomToolbar</string>
 </resources>
